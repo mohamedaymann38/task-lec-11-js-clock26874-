@@ -1,0 +1,36 @@
+body{
+    width: 80%;
+    height: 35px;
+    min-height: 70vh;
+ /* min-height: 0vh; 
+/* background: linear-gradient(45deg, #08001f, #30197d); */
+ background-color: #2c1c72;
+color: #fff;
+position: relative;
+} 
+.container{
+    font-size: 180px;
+    width: 805px; 
+    height: 180px;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aquamarine; 
+  background: rgba(235, 0, 255, 0.11);
+}
+ #maindiv{
+  font-size: 140px;
+  width: 30px;
+   top: 40%;
+   left: 40%;  
+  position: relative;
+  display: inline-block;
+  text-align: center;
+align-items: center;
+justify-content: center;
+}  
+ 
